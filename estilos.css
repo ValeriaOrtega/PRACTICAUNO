@@ -6,3 +6,44 @@ img{
     padding: 50px;
     left: 200px;
 }
+.Encabezado0{
+position:relative;
+left: 500px;
+bottom: 300px;
+color: black;
+font-size: 30px;
+}
+
+.Encabezado{
+    position: relative;
+    left: 500px;
+    bottom: 200px;
+    color: black;
+    float: left;
+    margin: 1em;
+    padding: 1em;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Encabezado2{
+    position: relative;
+    left: 500px;
+    bottom: 200px;
+    color: black;
+    float: left;
+    margin: 1em;
+    padding: 1em;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Encabezado3{
+    position: relative;
+    left: 500px;
+    bottom: 200px;
+    color: black;
+    float: left;
+    margin: 1em;
+    padding: 1em;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
